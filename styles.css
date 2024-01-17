@@ -35,6 +35,7 @@ h1 {
     margin-left: 40px;
     margin-top: 30px;
     font-family: 'Big Shoulders Display', sans-serif;
+    font-weight: 700;
 
 }
 p {
@@ -45,6 +46,7 @@ p {
     margin-bottom: 50px;
     padding-right: 40px;
     font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
 }
 button {
     background-color: var(--Very-light-gray);
